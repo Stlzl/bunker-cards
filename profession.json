@@ -1,0 +1,1218 @@
+[
+    {
+        "Profession": "3D Аниматор",
+        "id": 1
+    },
+    {
+        "Profession": "Абитуриент",
+        "id": 2
+    },
+    {
+        "Profession": "Автомеханик",
+        "id": 3
+    },
+    {
+        "Profession": "Агент банка",
+        "id": 4
+    },
+    {
+        "Profession": "Агент по туризму",
+        "id": 5
+    },
+    {
+        "Profession": "Агроном",
+        "id": 6
+    },
+    {
+        "Profession": "Адвокат",
+        "id": 7
+    },
+    {
+        "Profession": "Администратор",
+        "id": 8
+    },
+    {
+        "Profession": "Актер озвучки",
+        "id": 9
+    },
+    {
+        "Profession": "Актер/Актриса",
+        "id": 10
+    },
+    {
+        "Profession": "Акушер",
+        "id": 11
+    },
+    {
+        "Profession": "Аналитик",
+        "id": 12
+    },
+    {
+        "Profession": "Андролог",
+        "id": 13
+    },
+    {
+        "Profession": "Антиквар",
+        "id": 14
+    },
+    {
+        "Profession": "Антрополог",
+        "id": 15
+    },
+    {
+        "Profession": "Артист",
+        "id": 16
+    },
+    {
+        "Profession": "Археолог",
+        "id": 17
+    },
+    {
+        "Profession": "Архитектор",
+        "id": 18
+    },
+    {
+        "Profession": "Астролог",
+        "id": 19
+    },
+    {
+        "Profession": "Астроном",
+        "id": 20
+    },
+    {
+        "Profession": "Астрофизик",
+        "id": 21
+    },
+    {
+        "Profession": "Аудитор",
+        "id": 22
+    },
+    {
+        "Profession": "Балерина",
+        "id": 23
+    },
+    {
+        "Profession": "Банкир",
+        "id": 24
+    },
+    {
+        "Profession": "Бариста",
+        "id": 25
+    },
+    {
+        "Profession": "Бармен",
+        "id": 26
+    },
+    {
+        "Profession": "Батюшка",
+        "id": 27
+    },
+    {
+        "Profession": "Библиотекарь",
+        "id": 28
+    },
+    {
+        "Profession": "Бизнес-консультант",
+        "id": 29
+    },
+    {
+        "Profession": "Бизнесмен",
+        "id": 30
+    },
+    {
+        "Profession": "Биолог",
+        "id": 31
+    },
+    {
+        "Profession": "Биофизик",
+        "id": 32
+    },
+    {
+        "Profession": "Биохимик",
+        "id": 33
+    },
+    {
+        "Profession": "Биоэколог",
+        "id": 34
+    },
+    {
+        "Profession": "Ботаник",
+        "id": 35
+    },
+    {
+        "Profession": "Брокер",
+        "id": 36
+    },
+    {
+        "Profession": "Букмекер",
+        "id": 37
+    },
+    {
+        "Profession": "Булочник",
+        "id": 38
+    },
+    {
+        "Profession": "Бурильщик",
+        "id": 39
+    },
+    {
+        "Profession": "Бухгалтер",
+        "id": 40
+    },
+    {
+        "Profession": "Вахтер",
+        "id": 41
+    },
+    {
+        "Profession": "Веб-дизайнер",
+        "id": 42
+    },
+    {
+        "Profession": "Ведущий мероприятий",
+        "id": 43
+    },
+    {
+        "Profession": "Венеролог",
+        "id": 44
+    },
+    {
+        "Profession": "Ветеринар",
+        "id": 45
+    },
+    {
+        "Profession": "Видеооператор",
+        "id": 46
+    },
+    {
+        "Profession": "Визажист",
+        "id": 47
+    },
+    {
+        "Profession": "Винодел",
+        "id": 48
+    },
+    {
+        "Profession": "Вирусолог",
+        "id": 49
+    },
+    {
+        "Profession": "Владелец магазина",
+        "id": 50
+    },
+    {
+        "Profession": "Водолаз",
+        "id": 51
+    },
+    {
+        "Profession": "Военнослужащий",
+        "id": 52
+    },
+    {
+        "Profession": "Военный врач",
+        "id": 53
+    },
+    {
+        "Profession": "Военный инженер",
+        "id": 54
+    },
+    {
+        "Profession": "Военный летчик",
+        "id": 55
+    },
+    {
+        "Profession": "Вор",
+        "id": 56
+    },
+    {
+        "Profession": "Воспитатель",
+        "id": 57
+    },
+    {
+        "Profession": "Вышибала",
+        "id": 58
+    },
+    {
+        "Profession": "Гастроэнтеролог",
+        "id": 59
+    },
+    {
+        "Profession": "Гейм-дизайнер",
+        "id": 60
+    },
+    {
+        "Profession": "Геймер",
+        "id": 61
+    },
+    {
+        "Profession": "Гематолог",
+        "id": 62
+    },
+    {
+        "Profession": "Генетик",
+        "id": 63
+    },
+    {
+        "Profession": "Географ",
+        "id": 64
+    },
+    {
+        "Profession": "Геолог",
+        "id": 65
+    },
+    {
+        "Profession": "Геронтолог",
+        "id": 66
+    },
+    {
+        "Profession": "Гид-переводчик",
+        "id": 67
+    },
+    {
+        "Profession": "Гинеколог",
+        "id": 68
+    },
+    {
+        "Profession": "Гипнотизер",
+        "id": 69
+    },
+    {
+        "Profession": "Горничная",
+        "id": 70
+    },
+    {
+        "Profession": "Гримёр",
+        "id": 71
+    },
+    {
+        "Profession": "Гробовщик",
+        "id": 72
+    },
+    {
+        "Profession": "Грузчик",
+        "id": 73
+    },
+    {
+        "Profession": "Дальнобойщик",
+        "id": 74
+    },
+    {
+        "Profession": "Дворецкий",
+        "id": 75
+    },
+    {
+        "Profession": "Дворник",
+        "id": 76
+    },
+    {
+        "Profession": "Дегустатор",
+        "id": 77
+    },
+    {
+        "Profession": "Дезинсектор",
+        "id": 78
+    },
+    {
+        "Profession": "Декан",
+        "id": 79
+    },
+    {
+        "Profession": "Депутат",
+        "id": 80
+    },
+    {
+        "Profession": "Дерматолог",
+        "id": 81
+    },
+    {
+        "Profession": "Диетолог",
+        "id": 82
+    },
+    {
+        "Profession": "Дизайнер",
+        "id": 83
+    },
+    {
+        "Profession": "Диктор",
+        "id": 84
+    },
+    {
+        "Profession": "Дипломат",
+        "id": 85
+    },
+    {
+        "Profession": "Директор",
+        "id": 86
+    },
+    {
+        "Profession": "Доктор",
+        "id": 87
+    },
+    {
+        "Profession": "Документовед",
+        "id": 88
+    },
+    {
+        "Profession": "Доярка",
+        "id": 89
+    },
+    {
+        "Profession": "Драматург",
+        "id": 90
+    },
+    {
+        "Profession": "Живописец",
+        "id": 91
+    },
+    {
+        "Profession": "Животновод",
+        "id": 92
+    },
+    {
+        "Profession": "Жокей",
+        "id": 93
+    },
+    {
+        "Profession": "Журналист",
+        "id": 94
+    },
+    {
+        "Profession": "Завуч школы",
+        "id": 95
+    },
+    {
+        "Profession": "Заправщик АЗС",
+        "id": 96
+    },
+    {
+        "Profession": "Звукорежиссер",
+        "id": 97
+    },
+    {
+        "Profession": "Знахарь",
+        "id": 98
+    },
+    {
+        "Profession": "Изобретатель",
+        "id": 99
+    },
+    {
+        "Profession": "Иллюзионист",
+        "id": 100
+    },
+    {
+        "Profession": "Иллюстратор",
+        "id": 101
+    },
+    {
+        "Profession": "Иммунолог",
+        "id": 102
+    },
+    {
+        "Profession": "Инженер",
+        "id": 103
+    },
+    {
+        "Profession": "Инкассатор",
+        "id": 104
+    },
+    {
+        "Profession": "Инспектор",
+        "id": 105
+    },
+    {
+        "Profession": "Инструктор",
+        "id": 106
+    },
+    {
+        "Profession": "Историк",
+        "id": 107
+    },
+    {
+        "Profession": "Кальянщик",
+        "id": 108
+    },
+    {
+        "Profession": "Каратист",
+        "id": 109
+    },
+    {
+        "Profession": "Кардиолог",
+        "id": 110
+    },
+    {
+        "Profession": "Картограф",
+        "id": 111
+    },
+    {
+        "Profession": "Каскадер",
+        "id": 112
+    },
+    {
+        "Profession": "Кассир",
+        "id": 113
+    },
+    {
+        "Profession": "Кибернетик",
+        "id": 114
+    },
+    {
+        "Profession": "Киллер",
+        "id": 115
+    },
+    {
+        "Profession": "Кинолог",
+        "id": 116
+    },
+    {
+        "Profession": "Киномеханик",
+        "id": 117
+    },
+    {
+        "Profession": "Кинорежиссер",
+        "id": 118
+    },
+    {
+        "Profession": "Климатолог",
+        "id": 119
+    },
+    {
+        "Profession": "Клоун",
+        "id": 120
+    },
+    {
+        "Profession": "Коллектор",
+        "id": 121
+    },
+    {
+        "Profession": "Командир корабля",
+        "id": 122
+    },
+    {
+        "Profession": "Комбайнер",
+        "id": 123
+    },
+    {
+        "Profession": "Комик",
+        "id": 124
+    },
+    {
+        "Profession": "Коммерческий директор",
+        "id": 125
+    },
+    {
+        "Profession": "Композитор",
+        "id": 126
+    },
+    {
+        "Profession": "Кондитер",
+        "id": 127
+    },
+    {
+        "Profession": "Косметолог",
+        "id": 128
+    },
+    {
+        "Profession": "Космонавт",
+        "id": 129
+    },
+    {
+        "Profession": "Криминалист",
+        "id": 130
+    },
+    {
+        "Profession": "Критик",
+        "id": 131
+    },
+    {
+        "Profession": "Крупье",
+        "id": 132
+    },
+    {
+        "Profession": "Кузнец",
+        "id": 133
+    },
+    {
+        "Profession": "Культуролог",
+        "id": 134
+    },
+    {
+        "Profession": "Курьер",
+        "id": 135
+    },
+    {
+        "Profession": "Ландшафтный дизайнер",
+        "id": 136
+    },
+    {
+        "Profession": "Лейтенант",
+        "id": 137
+    },
+    {
+        "Profession": "Лесоруб",
+        "id": 138
+    },
+    {
+        "Profession": "Лингвист",
+        "id": 139
+    },
+    {
+        "Profession": "Лоббист",
+        "id": 140
+    },
+    {
+        "Profession": "Логопед",
+        "id": 141
+    },
+    {
+        "Profession": "Майор",
+        "id": 142
+    },
+    {
+        "Profession": "Маникюрщик",
+        "id": 143
+    },
+    {
+        "Profession": "Маркетолог",
+        "id": 144
+    },
+    {
+        "Profession": "Массажист",
+        "id": 145
+    },
+    {
+        "Profession": "Математик",
+        "id": 146
+    },
+    {
+        "Profession": "Матрос",
+        "id": 147
+    },
+    {
+        "Profession": "Медсестра/Медбрат",
+        "id": 148
+    },
+    {
+        "Profession": "Менеджер по продажам",
+        "id": 149
+    },
+    {
+        "Profession": "Метеоролог",
+        "id": 150
+    },
+    {
+        "Profession": "Механик",
+        "id": 151
+    },
+    {
+        "Profession": "Микробиолог",
+        "id": 152
+    },
+    {
+        "Profession": "Модель",
+        "id": 153
+    },
+    {
+        "Profession": "Модельер",
+        "id": 154
+    },
+    {
+        "Profession": "Монах",
+        "id": 155
+    },
+    {
+        "Profession": "Моряк",
+        "id": 156
+    },
+    {
+        "Profession": "Моушн-дизайнер",
+        "id": 157
+    },
+    {
+        "Profession": "Музыкант",
+        "id": 158
+    },
+    {
+        "Profession": "Мясник",
+        "id": 159
+    },
+    {
+        "Profession": "Нарколог",
+        "id": 160
+    },
+    {
+        "Profession": "Невролог",
+        "id": 161
+    },
+    {
+        "Profession": "Нейрохирург",
+        "id": 162
+    },
+    {
+        "Profession": "Нотариус",
+        "id": 163
+    },
+    {
+        "Profession": "Няня",
+        "id": 164
+    },
+    {
+        "Profession": "Окулист",
+        "id": 165
+    },
+    {
+        "Profession": "Онколог",
+        "id": 166
+    },
+    {
+        "Profession": "Оператор колл-центра",
+        "id": 167
+    },
+    {
+        "Profession": "Организатор мероприятий",
+        "id": 168
+    },
+    {
+        "Profession": "Орнитолог",
+        "id": 169
+    },
+    {
+        "Profession": "Ортопед",
+        "id": 170
+    },
+    {
+        "Profession": "Оториноларинголог",
+        "id": 171
+    },
+    {
+        "Profession": "Официант",
+        "id": 172
+    },
+    {
+        "Profession": "Охотник",
+        "id": 173
+    },
+    {
+        "Profession": "Охранник",
+        "id": 174
+    },
+    {
+        "Profession": "Оценщик",
+        "id": 175
+    },
+    {
+        "Profession": "Парамедик",
+        "id": 176
+    },
+    {
+        "Profession": "Парикмахер",
+        "id": 177
+    },
+    {
+        "Profession": "Парфюмер",
+        "id": 178
+    },
+    {
+        "Profession": "Патологоанатом",
+        "id": 179
+    },
+    {
+        "Profession": "Певец",
+        "id": 180
+    },
+    {
+        "Profession": "Педагог",
+        "id": 181
+    },
+    {
+        "Profession": "Педиатр",
+        "id": 182
+    },
+    {
+        "Profession": "Переводчик",
+        "id": 183
+    },
+    {
+        "Profession": "Пивовар",
+        "id": 184
+    },
+    {
+        "Profession": "Пилот",
+        "id": 185
+    },
+    {
+        "Profession": "Писатель",
+        "id": 186
+    },
+    {
+        "Profession": "Пластический хирург",
+        "id": 187
+    },
+    {
+        "Profession": "Плотник",
+        "id": 188
+    },
+    {
+        "Profession": "Повар",
+        "id": 189
+    },
+    {
+        "Profession": "Подолог",
+        "id": 190
+    },
+    {
+        "Profession": "Пожарный",
+        "id": 191
+    },
+    {
+        "Profession": "Политолог",
+        "id": 192
+    },
+    {
+        "Profession": "Полицейский",
+        "id": 193
+    },
+    {
+        "Profession": "Посол",
+        "id": 194
+    },
+    {
+        "Profession": "Посудомойщик",
+        "id": 195
+    },
+    {
+        "Profession": "Почтальон",
+        "id": 196
+    },
+    {
+        "Profession": "Предприниматель",
+        "id": 197
+    },
+    {
+        "Profession": "Президент",
+        "id": 198
+    },
+    {
+        "Profession": "Преподаватель",
+        "id": 199
+    },
+    {
+        "Profession": "Провизор",
+        "id": 200
+    },
+    {
+        "Profession": "Программист",
+        "id": 201
+    },
+    {
+        "Profession": "Продавец",
+        "id": 202
+    },
+    {
+        "Profession": "Продюсер",
+        "id": 203
+    },
+    {
+        "Profession": "Проктолог",
+        "id": 204
+    },
+    {
+        "Profession": "Прокурор",
+        "id": 205
+    },
+    {
+        "Profession": "Прораб",
+        "id": 206
+    },
+    {
+        "Profession": "Психиатр",
+        "id": 207
+    },
+    {
+        "Profession": "Психолог",
+        "id": 208
+    },
+    {
+        "Profession": "Психотерапевт",
+        "id": 209
+    },
+    {
+        "Profession": "Пульмонолог",
+        "id": 210
+    },
+    {
+        "Profession": "Пчеловод",
+        "id": 211
+    },
+    {
+        "Profession": "Радиотехник",
+        "id": 212
+    },
+    {
+        "Profession": "Разнорабочий",
+        "id": 213
+    },
+    {
+        "Profession": "Реабилитолог",
+        "id": 214
+    },
+    {
+        "Profession": "Реаниматолог",
+        "id": 215
+    },
+    {
+        "Profession": "Ревизор",
+        "id": 216
+    },
+    {
+        "Profession": "Режиссер",
+        "id": 217
+    },
+    {
+        "Profession": "Рекрутер",
+        "id": 218
+    },
+    {
+        "Profession": "Ректор",
+        "id": 219
+    },
+    {
+        "Profession": "Риелтор",
+        "id": 220
+    },
+    {
+        "Profession": "Руководитель",
+        "id": 221
+    },
+    {
+        "Profession": "Рэпер",
+        "id": 222
+    },
+    {
+        "Profession": "Садовод",
+        "id": 223
+    },
+    {
+        "Profession": "Санитар",
+        "id": 224
+    },
+    {
+        "Profession": "Сантехник",
+        "id": 225
+    },
+    {
+        "Profession": "Сварщик",
+        "id": 226
+    },
+    {
+        "Profession": "Священник",
+        "id": 227
+    },
+    {
+        "Profession": "Секретарь",
+        "id": 228
+    },
+    {
+        "Profession": "Секретный агент",
+        "id": 229
+    },
+    {
+        "Profession": "Скотник",
+        "id": 230
+    },
+    {
+        "Profession": "Скульптор",
+        "id": 231
+    },
+    {
+        "Profession": "Следователь",
+        "id": 232
+    },
+    {
+        "Profession": "Слесарь",
+        "id": 233
+    },
+    {
+        "Profession": "Солдат",
+        "id": 234
+    },
+    {
+        "Profession": "Сомнолог",
+        "id": 235
+    },
+    {
+        "Profession": "Сотрудник NASA",
+        "id": 236
+    },
+    {
+        "Profession": "Сотрудник салона связи",
+        "id": 237
+    },
+    {
+        "Profession": "Сотрудник ЦРУ",
+        "id": 238
+    },
+    {
+        "Profession": "Социолог",
+        "id": 239
+    },
+    {
+        "Profession": "Спасатель",
+        "id": 240
+    },
+    {
+        "Profession": "Спортивный тренер",
+        "id": 241
+    },
+    {
+        "Profession": "Спортсмен",
+        "id": 242
+    },
+    {
+        "Profession": "Станочник",
+        "id": 243
+    },
+    {
+        "Profession": "Стилист",
+        "id": 244
+    },
+    {
+        "Profession": "Стоматолог",
+        "id": 245
+    },
+    {
+        "Profession": "Сторож",
+        "id": 246
+    },
+    {
+        "Profession": "Страховой агент",
+        "id": 247
+    },
+    {
+        "Profession": "Стример",
+        "id": 248
+    },
+    {
+        "Profession": "Стриптизёр",
+        "id": 249
+    },
+    {
+        "Profession": "Строитель",
+        "id": 250
+    },
+    {
+        "Profession": "Студент",
+        "id": 251
+    },
+    {
+        "Profession": "Стюард/Стюардесса",
+        "id": 252
+    },
+    {
+        "Profession": "Судебный пристав",
+        "id": 253
+    },
+    {
+        "Profession": "Судья",
+        "id": 254
+    },
+    {
+        "Profession": "Сурдопереводчик",
+        "id": 255
+    },
+    {
+        "Profession": "Сушист",
+        "id": 256
+    },
+    {
+        "Profession": "Сценарист",
+        "id": 257
+    },
+    {
+        "Profession": "Таксист",
+        "id": 258
+    },
+    {
+        "Profession": "Танцор",
+        "id": 259
+    },
+    {
+        "Profession": "Тату-мастер",
+        "id": 260
+    },
+    {
+        "Profession": "Телеведущий",
+        "id": 261
+    },
+    {
+        "Profession": "Тележурналист",
+        "id": 262
+    },
+    {
+        "Profession": "Телохранитель",
+        "id": 263
+    },
+    {
+        "Profession": "Терапевт",
+        "id": 264
+    },
+    {
+        "Profession": "Типограф",
+        "id": 265
+    },
+    {
+        "Profession": "Товаровед",
+        "id": 266
+    },
+    {
+        "Profession": "Травматолог",
+        "id": 267
+    },
+    {
+        "Profession": "Тракторист",
+        "id": 268
+    },
+    {
+        "Profession": "Уборщик",
+        "id": 269
+    },
+    {
+        "Profession": "Уролог",
+        "id": 270
+    },
+    {
+        "Profession": "Ученый",
+        "id": 271
+    },
+    {
+        "Profession": "Учитель географии",
+        "id": 272
+    },
+    {
+        "Profession": "Учитель иностранного языка",
+        "id": 273
+    },
+    {
+        "Profession": "Учитель истории",
+        "id": 274
+    },
+    {
+        "Profession": "Учитель младших классов",
+        "id": 275
+    },
+    {
+        "Profession": "Фармацевт",
+        "id": 276
+    },
+    {
+        "Profession": "Фельдшер",
+        "id": 277
+    },
+    {
+        "Profession": "Фермер",
+        "id": 278
+    },
+    {
+        "Profession": "Физик",
+        "id": 279
+    },
+    {
+        "Profession": "Философ",
+        "id": 280
+    },
+    {
+        "Profession": "Финансист",
+        "id": 281
+    },
+    {
+        "Profession": "Фотограф",
+        "id": 282
+    },
+    {
+        "Profession": "Фумелье",
+        "id": 283
+    },
+    {
+        "Profession": "Хакер",
+        "id": 284
+    },
+    {
+        "Profession": "Химик",
+        "id": 285
+    },
+    {
+        "Profession": "Хирург",
+        "id": 286
+    },
+    {
+        "Profession": "Хоккеист",
+        "id": 287
+    },
+    {
+        "Profession": "Хореограф",
+        "id": 288
+    },
+    {
+        "Profession": "Художник",
+        "id": 289
+    },
+    {
+        "Profession": "Художник компьютерной графики",
+        "id": 290
+    },
+    {
+        "Profession": "Часовщик",
+        "id": 291
+    },
+    {
+        "Profession": "Частный детектив",
+        "id": 292
+    },
+    {
+        "Profession": "Шахтер",
+        "id": 293
+    },
+    {
+        "Profession": "Швея",
+        "id": 294
+    },
+    {
+        "Profession": "Эколог",
+        "id": 295
+    },
+    {
+        "Profession": "Экономист",
+        "id": 296
+    },
+    {
+        "Profession": "Экскурсовод",
+        "id": 297
+    },
+    {
+        "Profession": "Электрик",
+        "id": 298
+    },
+    {
+        "Profession": "Энергетик",
+        "id": 299
+    },
+    {
+        "Profession": "Энолог",
+        "id": 300
+    },
+    {
+        "Profession": "Эпидемиолог",
+        "id": 301
+    },
+    {
+        "Profession": "Этнограф",
+        "id": 302
+    },
+    {
+        "Profession": "Ювелир",
+        "id": 303
+    },
+    {
+        "Profession": "Юрист",
+        "id": 304
+    }
+]
